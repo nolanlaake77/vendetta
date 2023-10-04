@@ -1,1 +1,260 @@
-
+{
+  "name": "Crimson Skye",
+  "description": "A Red Discoed Theme with a nice Background.",
+  "authors": [
+    {
+      "name": "shadowclipsys",
+      "id": "977936340186443826"
+    }
+  ],
+  
+  "semanticColors": {
+    "ACTIVITY_CARD_BACKGROUND": [
+      "#4E2220"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#1D0C0C"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#281111"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#321818"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#7A3C27"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#7A3C27"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#4D3C27"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#993C27"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#321818"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#281111"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#321818"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#3C1B1D"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#4E2220"
+    ],
+    "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+      "#32181899"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND_ACTIVE": [
+      "#F44E79"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
+      "#F7799A"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER": [
+      "#F7799A"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": [
+      "#F44E79"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
+      "#F7799A"
+    ],
+    "BUTTON_OUTLINE_BRAND_TEXT": [
+      "#FFFFFF"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BACKGROUND": [
+      "#00FFFFFF"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BACKGROUND_ACTIVE": [
+      "#786F6D"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BACKGROUND_HOVER": [
+      "#3C2725"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER": [
+      "#3C2725"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER_ACTIVE": [
+      "#786F6D"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER_HOVER": [
+      "#3C2725"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#3C2725"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#492323"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_DISABLED": [
+      "#3C2725"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "#3A1C1C"
+    ],
+    "CHANNEL_ICON": [
+      "#FDE7E0"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#A3948F"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#E5B3B3"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#281111"
+    ],
+    "CHAT_BACKGROUND": [
+      "#281111"
+    ],
+    "CHAT_BORDER": [
+      "#462222"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#281111"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#F79494"
+    ],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#F79494"
+    ],
+    "DEPRECATED_CARD_BG": [
+      "#46222299"
+    ],
+    "DEPRECATED_CARD_EDITABLE_BG": [
+      "#4622224D"
+    ],
+    "DEPRECATED_STORE_BG": [
+      "#281111"
+    ],
+    "DEPRECATED_TEXT_INPUT_BG": [
+      "#462222"
+    ],
+    "DEPRECATED_TEXT_INPUT_PREFIX": [
+      "#FDE0E7"
+    ],
+    "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
+      "#46222280"
+    ],
+    "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
+      "#3C1B1C"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#3C1B1D"
+    ],
+    "HEADER_PRIMARY": [
+      "#FDE0E7"
+    ],
+    "HEADER_SECONDARY": [
+      "#A3948F"
+    ],
+    "INPUT_BACKGROUND": [
+      "#462222"
+    ],
+    "INPUT_PLACEHOLDER_TEXT": [
+      "#A3948F"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#E5B3B3"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#3C2725"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FDE0E7"
+    ],
+    "MODAL_BACKGROUND": [
+      "#281111"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#321818"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#4E2220"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#3C1B1D"
+    ],
+    "TEXT_BRAND": [
+      "#F8A486"
+    ],
+    "TEXT_MUTED": [
+      "#A3948F"
+    ],
+    "TEXT_NORMAL": [
+      "#FDE0E7"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#4E222080"
+    ]
+  },
+  
+  "rawColors": {
+    "PRIMARY_530": "#1D0C0C",
+    "PRIMARY_600": "#281111",
+    "PRIMARY_630": "#321818",
+    "PRIMARY_660": "#3C1B1D",
+    "PRIMARY_700": "#4E2220",
+    "PRIMARY_800": "#321818",
+    "BRAND_100": "#FEF2F5",
+    "BRAND_130": "#FDD7E1",
+    "BRAND_160": "#FAE2C5",
+    "BRAND_200": "#F9A1B8",
+    "BRAND_230": "#F99BB3",
+    "BRAND_260": "#F997B1",
+    "BRAND_300": "#F890AC",
+    "BRAND_330": "#F88DA9",
+    "BRAND_345": "#F88AF7",
+    "BRAND_360": "#F886A4",
+    "BRAND_400": "#F883A2",
+    "BRAND_430": "#F7809F",
+    "BRAND_460": "#F77D9D",
+    "BRAND_500": "#F79A9A",
+    "BRAND_530": "#F66B8F",
+    "BRAND_560": "#F4A579",
+    "BRAND_600": "#D82957",
+    "BRAND_630": "#8F3B34",
+    "BRAND_660": "#7D342D",
+    "BRAND_700": "#612323",
+    "BRAND_730": "#5B2621",
+    "BRAND_760": "#53231E",
+    "BRAND_800": "#491E1A",
+    "BRAND_830": "#381414",
+    "BRAND_860": "#240F0D",
+    "BRAND_900": "#0C0405"
+  },
+  
+  "plus": {
+    "version": 0,
+    "unreadBadgeColor": "#543A3A",
+    "mentionLineColor": "#271111",
+    "icons": {
+      "ic_radio_circle_checked": "#F57999",
+      "ic_selection_checked_24px": "#F57999",
+      "ic_new_pins": "#F57999",
+      "boost": "#F59595",
+      "ic_settings_boost_24px": "#F59595",
+      "member_list_badge_16px": "#F59595"
+    },
+    "customOverlays": true,
+    "iconpack": "md3"
+  },
+  
+  "background": {
+    "blur": 0.2,
+    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Crimson-Skye/Assets/Background.jpg",
+    "alpha": 0.2
+  },
+  "spec": 2
+}
