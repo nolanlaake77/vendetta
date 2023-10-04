@@ -1,0 +1,269 @@
+{
+  "name": "Azure Mist",
+  "description": "A light Blue theme with Themes+ compatibility and a background",
+  "authors": [
+    {
+      "name": "shadowclipsys",
+      "id": "977936340186443826"
+    }
+  ],
+
+  "semanticColors": {
+    "ACTIVITY_CARD_BACKGROUND": [
+      "#112233"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#445566"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(22, 33, 43, 0.2)"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#334455"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#223344"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#7788997a"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#8899aa7a"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#6677884d"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#55667799"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#223344"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#334455"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#223344"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#112233"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#112233"
+    ],
+    "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+      "#22334499"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND_ACTIVE": [
+      "#556677"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
+      "#667788"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER": [
+      "#667788"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": [
+      "#556677"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
+      "#667788"
+    ],
+    "BUTTON_OUTLINE_BRAND_TEXT": [
+      "#8899aa"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BACKGROUND": [
+      "#8899aa00"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BACKGROUND_ACTIVE": [
+      "#445566"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BACKGROUND_HOVER": [
+      "#112233"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER": [
+      "#112233"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER_ACTIVE": [
+      "#445566"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER_HOVER": [
+      "#112233"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#112233"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#001122"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_DISABLED": [
+      "#112233"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "#001122"
+    ],
+    "CHANNEL_ICON": [
+      "#AABBCC"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#919191"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#CCCCCC"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#334455"
+    ],
+    "CHAT_BACKGROUND": [
+      "#334455"
+    ],
+    "CHAT_BORDER": [
+      "#112233"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#334455"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#778899"
+    ],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#778899"
+    ],
+    "DEPRECATED_CARD_BG": [
+      "#11223399"
+    ],
+    "DEPRECATED_CARD_EDITABLE_BG": [
+      "#1122334d"
+    ],
+    "DEPRECATED_STORE_BG": [
+      "#334455"
+    ],
+    "DEPRECATED_TEXT_INPUT_BG": [
+      "#112233"
+    ],
+    "DEPRECATED_TEXT_INPUT_PREFIX": [
+      "#AABBCC"
+    ],
+    "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
+      "#11223380"
+    ],
+    "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
+      "#112233cc"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#112233e6"
+    ],
+    "HEADER_PRIMARY": [
+      "#AABBCC"
+    ],
+    "HEADER_SECONDARY": [
+      "#DDDDDD"
+    ],
+    "INPUT_BACKGROUND": [
+      "#112233"
+    ],
+    "INPUT_PLACEHOLDER_TEXT": [
+      "#DDDDDD"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#AABBCC"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#CCCCCC"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#667788"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#AABBCC"
+    ],
+    "MODAL_BACKGROUND": [
+      "#334455"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#223344"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#112233"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#112233"
+    ],
+    "TEXT_BRAND": [
+      "#AABBCC"
+    ],
+    "TEXT_MUTED": [
+      "#DDDDDD"
+    ],
+    "TEXT_NORMAL": [
+      "#536f8a"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#11223380"
+    ]
+  },
+
+  "rawColors": {
+    "PRIMARY_530": "#445566",
+    "PRIMARY_600": "#334455",
+    "PRIMARY_630": "#223344",
+    "PRIMARY_660": "#112233",
+    "PRIMARY_700": "#112233",
+    "PRIMARY_800": "#223344",
+    "BRAND_100": "#AABBCC",
+    "BRAND_130": "#AABBCC",
+    "BRAND_160": "#AABBCC",
+    "BRAND_200": "#AABBCC",
+    "BRAND_230": "#AABBCC",
+    "BRAND_260": "#AABBCC",
+    "BRAND_300": "#AABBCC",
+    "BRAND_330": "#AABBCC",
+    "BRAND_345": "#AABBCC",
+    "BRAND_360": "#AABBCC",
+    "BRAND_400": "#AABBCC",
+    "BRAND_430": "#AABBCC",
+    "BRAND_460": "#AABBCC",
+    "BRAND_500": "#AABBCC",
+    "BRAND_530": "#AABBCC",
+    "BRAND_560": "#AABBCC",
+    "BRAND_600": "#AABBCC",
+    "BRAND_630": "#AABBCC",
+    "BRAND_660": "#AABBCC",
+    "BRAND_700": "#AABBCC",
+    "BRAND_730": "#AABBCC",
+    "BRAND_760": "#AABBCC",
+    "BRAND_800": "#AABBCC",
+    "BRAND_830": "#AABBCC",
+    "BRAND_860": "#AABBCC",
+    "BRAND_900": "#AABBCC"
+  },
+
+  "plus": {
+    "version": 0,
+    "unreadBadgeColor": "#445566",
+    "mentionLineColor": "#223343",
+    "icons": {
+      "ic_radio_circle_checked": "#1F2831",
+      "StatusStreaming": "#5c538a",
+      "StatusMobileOnline": "#538a6e",
+      "StatusOnline": "#538a6e",
+      "StatusIdle": "#a6a66a",
+      "StatusDND": "#a66a79",
+      "StatusOffline": "#6a7ea6",
+      "ic_selection_checked_24px": "RC_BRAND_500",
+      "ic_new_pins": "#AABBCC",
+      "boost": "#778899",
+      "ic_settings_boost_24px": "#8899aa",
+      "member_list_badge_16px": "#445566"
+    },
+    "customOverlays": true,
+    "iconpack": "rosiecord-iconsax"
+  },
+
+  "background": {
+    "blur": 0.3,
+    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Azure-Mist/Assets/Nord.png",
+    "alpha": 1
+  },
+  "spec": 2
+}
