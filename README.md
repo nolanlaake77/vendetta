@@ -15,10 +15,29 @@ Violet
 ```
 https://raw.githubusercontent.com/nolanlaake77/vendetta/main/themes/violet.json
 ```
+Kotikov
+```
+https://raw.githubusercontent.com/nolanlaake77/vendetta/main/themes/Kotikovtheme.json
+```
+Tachiyomi Skies
+```
+https://raw.githubusercontent.com/nolanlaake77/vendetta/main/themes/Tachiyomi-Skies/Tachiyomi-Skies.json
+```
+Crimson Skye
+```
+https://raw.githubusercontent.com/nolanlaake77/vendetta/main/themes/Crimson-Skye/Crimson-Skye.json
+```
+Azure Mist
+```
+https://raw.githubusercontent.com/nolanlaake77/vendetta/main/themes/Azure-Mist/Azure-Mist.json
+```
 
 ## Plugins
 
+MessageLogger
+```
 
+```
 
 ## Contact Us
 
